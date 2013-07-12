@@ -14,7 +14,7 @@ You can then confirm the attribute was applied with
 
     $ getfattr -d /tmp/extattr
     ...
-    myattr=myattrvalue
+    user.myattr=myattrvalue
 
 ## Implementation
 
